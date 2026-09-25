@@ -1,0 +1,2116 @@
+{
+  "processing_summary": {
+    "files_processed": 3,
+    "files_failed": 0,
+    "failed_files": [],
+    "ai_enabled": false
+  },
+  "companies": [
+    {
+      "source_file": "Accounts & Schedule - Wah Sin F.E. Marketing Pte. Ltd. FYE 31.12.24 - GL for rental.xlsx",
+      "company": "WAH SIN F.E. MARKETING PTE LTD",
+      "properties": [
+        {
+          "property_address": "Suntec City Tower One #09-03A",
+          "tenant": "IAI AISA PTE LTD",
+          "currency": "SGD",
+          "rental_period": {
+            "start": "2024-01-16",
+            "end": "2025-01-15"
+          },
+          "standard_monthly_rental": 37325.5,
+          "monthly_records": [
+            {
+              "period_start": "2024-01-16",
+              "period_end": "2024-02-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-01-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  515
+                ]
+              }
+            },
+            {
+              "period_start": "2024-02-16",
+              "period_end": "2024-03-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-02-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  517
+                ]
+              }
+            },
+            {
+              "period_start": "2024-03-16",
+              "period_end": "2024-04-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-03-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  518
+                ]
+              }
+            },
+            {
+              "period_start": "2024-04-16",
+              "period_end": "2024-05-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-04-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  519
+                ]
+              }
+            },
+            {
+              "period_start": "2024-05-16",
+              "period_end": "2024-06-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-05-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  520
+                ]
+              }
+            },
+            {
+              "period_start": "2024-06-16",
+              "period_end": "2024-07-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-06-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  521
+                ]
+              }
+            },
+            {
+              "period_start": "2024-07-16",
+              "period_end": "2024-08-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-07-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  522
+                ]
+              }
+            },
+            {
+              "period_start": "2024-08-16",
+              "period_end": "2024-09-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-08-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  523
+                ]
+              }
+            },
+            {
+              "period_start": "2024-09-16",
+              "period_end": "2024-10-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-09-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  524
+                ]
+              }
+            },
+            {
+              "period_start": "2024-10-16",
+              "period_end": "2024-11-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-10-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  525
+                ]
+              }
+            },
+            {
+              "period_start": "2024-11-16",
+              "period_end": "2024-12-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-11-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  526
+                ]
+              }
+            },
+            {
+              "period_start": "2024-12-16",
+              "period_end": "2025-01-15",
+              "amount": 37325.5,
+              "amount_signed": 37325.5,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "IAI AISA PTE LTD",
+              "confidence": 0.85,
+              "transaction_date": "2024-12-08",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  527
+                ]
+              }
+            }
+          ],
+          "missing_periods": [],
+          "issues": [],
+          "clarification_questions": []
+        },
+        {
+          "property_address": null,
+          "tenant": null,
+          "currency": "SGD",
+          "rental_period": {
+            "start": "2024-01-01",
+            "end": "2024-01-15"
+          },
+          "standard_monthly_rental": null,
+          "monthly_records": [
+            {
+              "period_start": "2024-01-01",
+              "period_end": "2024-01-15",
+              "amount": 19720.05,
+              "amount_signed": 19720.05,
+              "currency": "SGD",
+              "record_type": "partial_rent",
+              "tenant": null,
+              "confidence": 0.55,
+              "transaction_date": "2024-01-31",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  516
+                ]
+              }
+            },
+            {
+              "period_start": "2025-01-01",
+              "period_end": "2025-01-15",
+              "amount": 18662.75,
+              "amount_signed": -18662.75,
+              "currency": "SGD",
+              "record_type": "adjustment",
+              "tenant": null,
+              "confidence": 0.55,
+              "transaction_date": "2024-12-31",
+              "source": {
+                "sheet": "GL",
+                "rows": [
+                  528
+                ]
+              }
+            }
+          ],
+          "missing_periods": [],
+          "issues": [
+            {
+              "type": "MISSING_PROPERTY_ADDRESS",
+              "severity": "warning",
+              "message": "No property address could be identified for a rental transaction dated 2024-01-31 (sheet GL, row(s) [516]).",
+              "context": {
+                "sheet": "GL",
+                "rows": [
+                  516
+                ],
+                "period_start": "2024-01-01",
+                "period_end": "2024-01-15"
+              }
+            },
+            {
+              "type": "MISSING_PROPERTY_ADDRESS",
+              "severity": "warning",
+              "message": "No property address could be identified for a rental transaction dated 2024-12-31 (sheet GL, row(s) [528]).",
+              "context": {
+                "sheet": "GL",
+                "rows": [
+                  528
+                ],
+                "period_start": "2025-01-01",
+                "period_end": "2025-01-15"
+              }
+            },
+            {
+              "type": "PARTIAL_RENTAL",
+              "severity": "info",
+              "message": "A partial rental charge was found for 2024-01-01 to 2024-01-15 (amount 19720.05).",
+              "context": {
+                "period_start": "2024-01-01",
+                "period_end": "2024-01-15",
+                "amount": 19720.05,
+                "rows": [
+                  516
+                ]
+              }
+            }
+          ],
+          "clarification_questions": [
+            "A rental transaction was identified for the period 2024-01-01 to 2024-01-15 (sheet GL, row(s) [516]), but no property address could be identified. Please confirm the property address for this rental.",
+            "A rental transaction was identified for the period 2025-01-01 to 2025-01-15 (sheet GL, row(s) [528]), but no property address could be identified. Please confirm the property address for this rental.",
+            "A partial rental charge was found for the property for 2024-01-01 to 2024-01-15 (amount 19720.05). Please confirm whether this period should be included as part of the lease period."
+          ]
+        }
+      ]
+    },
+    {
+      "source_file": "CLIVE SHOPHOUSES PTE. LTD. General Ledger for rental.xls",
+      "company": "Clive Shophouses Pte Ltd",
+      "properties": [
+        {
+          "property_address": "41 Clive Street",
+          "tenant": "HTL Music Bar",
+          "currency": "SGD",
+          "rental_period": {
+            "start": "2022-07-01",
+            "end": "2022-10-31"
+          },
+          "standard_monthly_rental": 8000.0,
+          "monthly_records": [
+            {
+              "period_start": "2022-07-01",
+              "period_end": "2022-07-31",
+              "amount": 8000.0,
+              "amount_signed": 8000.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "HTL Music Bar",
+              "confidence": 0.85,
+              "transaction_date": "2022-07-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  256
+                ]
+              }
+            },
+            {
+              "period_start": "2022-08-01",
+              "period_end": "2022-08-31",
+              "amount": 8000.0,
+              "amount_signed": 8000.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "HTL Music Bar",
+              "confidence": 0.85,
+              "transaction_date": "2022-08-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  259
+                ]
+              }
+            },
+            {
+              "period_start": "2022-09-01",
+              "period_end": "2022-09-30",
+              "amount": 8000.0,
+              "amount_signed": 8000.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "HTL Music Bar",
+              "confidence": 0.85,
+              "transaction_date": "2022-09-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  262
+                ]
+              }
+            },
+            {
+              "period_start": "2022-10-01",
+              "period_end": "2022-10-31",
+              "amount": 8000.0,
+              "amount_signed": 8000.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "HTL Music Bar",
+              "confidence": 0.85,
+              "transaction_date": "2022-10-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  265
+                ]
+              }
+            }
+          ],
+          "missing_periods": [],
+          "issues": [],
+          "clarification_questions": []
+        }
+      ]
+    },
+    {
+      "source_file": "KAMPONG GLAM SHOPHOUSES PTE. LTD. General Ledger for rental.xls",
+      "company": "Kampong Glam Shophouses Pte Ltd",
+      "properties": [
+        {
+          "property_address": "29 Arab St #01-01",
+          "tenant": "Midsummer Sun Pte Ltd",
+          "currency": "SGD",
+          "rental_period": {
+            "start": "2025-04-01",
+            "end": "2026-01-31"
+          },
+          "standard_monthly_rental": 5500.0,
+          "monthly_records": [
+            {
+              "period_start": "2025-04-01",
+              "period_end": "2025-04-30",
+              "amount": 5500.0,
+              "amount_signed": 5500.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-04-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  452
+                ]
+              }
+            },
+            {
+              "period_start": "2025-05-01",
+              "period_end": "2025-05-31",
+              "amount": 5500.0,
+              "amount_signed": 5500.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-05-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  475
+                ]
+              }
+            },
+            {
+              "period_start": "2025-06-01",
+              "period_end": "2025-06-30",
+              "amount": 5500.0,
+              "amount_signed": 5500.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun",
+              "confidence": 0.85,
+              "transaction_date": "2025-06-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  496
+                ]
+              }
+            },
+            {
+              "period_start": "2025-07-01",
+              "period_end": "2025-07-31",
+              "amount": 5500.0,
+              "amount_signed": 5500.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-07-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  517
+                ]
+              }
+            },
+            {
+              "period_start": "2025-08-01",
+              "period_end": "2025-08-31",
+              "amount": 5500.0,
+              "amount_signed": 5500.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-08-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  537
+                ]
+              }
+            },
+            {
+              "period_start": "2025-09-01",
+              "period_end": "2025-09-30",
+              "amount": 5500.0,
+              "amount_signed": 5500.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun",
+              "confidence": 0.85,
+              "transaction_date": "2025-09-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  558
+                ]
+              }
+            },
+            {
+              "period_start": "2025-10-01",
+              "period_end": "2025-10-31",
+              "amount": 5500.0,
+              "amount_signed": 5500.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-10-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  579
+                ]
+              }
+            },
+            {
+              "period_start": "2025-11-01",
+              "period_end": "2025-11-30",
+              "amount": 5500.0,
+              "amount_signed": 5500.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-11-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  599
+                ]
+              }
+            },
+            {
+              "period_start": "2025-11-01",
+              "period_end": "2025-11-30",
+              "amount": 5500.0,
+              "amount_signed": 5500.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-11-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  656
+                ]
+              }
+            },
+            {
+              "period_start": "2025-12-01",
+              "period_end": "2025-12-31",
+              "amount": 5800.0,
+              "amount_signed": 5800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun",
+              "confidence": 0.85,
+              "transaction_date": "2025-12-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  620
+                ]
+              }
+            },
+            {
+              "period_start": "2026-01-01",
+              "period_end": "2026-01-31",
+              "amount": 5800.0,
+              "amount_signed": 5800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Midsummer Sun Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-01-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  638
+                ]
+              }
+            }
+          ],
+          "missing_periods": [
+            {
+              "expected_start": "2026-02-01",
+              "expected_end": "2026-02-28"
+            },
+            {
+              "expected_start": "2026-03-01",
+              "expected_end": "2026-03-31"
+            }
+          ],
+          "issues": [
+            {
+              "type": "DUPLICATE_PERIOD",
+              "severity": "warning",
+              "message": "Multiple rental transactions were identified for 2025-11-01 to 2025-11-30.",
+              "context": {
+                "period_start": "2025-11-01",
+                "period_end": "2025-11-30",
+                "rows": [
+                  [
+                    599
+                  ],
+                  [
+                    656
+                  ]
+                ]
+              }
+            },
+            {
+              "type": "AMOUNT_INCONSISTENCY",
+              "severity": "warning",
+              "message": "Recurring rental is 5500 but 2025-12-01 to 2025-12-31 is recorded as 5800.",
+              "context": {
+                "period_start": "2025-12-01",
+                "period_end": "2025-12-31",
+                "expected_amount": 5500.0,
+                "actual_amount": 5800.0,
+                "rows": [
+                  620
+                ]
+              }
+            },
+            {
+              "type": "MISSING_RENTAL_PERIOD",
+              "severity": "warning",
+              "message": "No rental record identified for 2026-02-01 to 2026-02-28.",
+              "context": {
+                "expected_start": "2026-02-01",
+                "expected_end": "2026-02-28",
+                "coverage": "tail_or_head"
+              }
+            },
+            {
+              "type": "MISSING_RENTAL_PERIOD",
+              "severity": "warning",
+              "message": "No rental record identified for 2026-03-01 to 2026-03-31.",
+              "context": {
+                "expected_start": "2026-03-01",
+                "expected_end": "2026-03-31",
+                "coverage": "tail_or_head"
+              }
+            }
+          ],
+          "clarification_questions": [
+            "Multiple rental transactions were identified for 29 Arab St #01-01 for 2025-11-01 to 2025-11-30. Please confirm whether these represent separate rental charges or a duplicated record.",
+            "The recurring rental amount for 29 Arab St #01-01 is 5500, but the rental for 2025-12-01 to 2025-12-31 is recorded as 5800. Please confirm whether this amount change is correct.",
+            "Rental records for 29 Arab St #01-01 end before the file's latest period, and no rental entry was identified for 2026-02-01 to 2026-02-28. Please confirm whether the lease ended or whether rental records are missing.",
+            "Rental records for 29 Arab St #01-01 end before the file's latest period, and no rental entry was identified for 2026-03-01 to 2026-03-31. Please confirm whether the lease ended or whether rental records are missing."
+          ]
+        },
+        {
+          "property_address": "29 Arab St #02-01",
+          "tenant": "Celes Chng",
+          "currency": "SGD",
+          "rental_period": {
+            "start": null,
+            "end": null
+          },
+          "standard_monthly_rental": null,
+          "monthly_records": [
+            {
+              "period_start": "2025-04-01",
+              "period_end": "2025-04-30",
+              "amount": 4700.0,
+              "amount_signed": -4700.0,
+              "currency": "SGD",
+              "record_type": "adjustment",
+              "tenant": "Celes Chng",
+              "confidence": 0.85,
+              "transaction_date": "2025-04-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  454
+                ]
+              }
+            }
+          ],
+          "missing_periods": [],
+          "issues": [
+            {
+              "type": "AMBIGUOUS_RECORD",
+              "severity": "warning",
+              "message": "Only adjustment-type entries were found for 29 Arab St #02-01; no monthly rental records could be established. Please confirm how these entries should be treated.",
+              "context": {
+                "record_count": 1
+              }
+            }
+          ],
+          "clarification_questions": [
+            "An ambiguous rental record was found for 29 Arab St #02-01: Only adjustment-type entries were found for 29 Arab St #02-01; no monthly rental records could be established. Please confirm how these entries should be treated. Please confirm how it should be treated."
+          ]
+        },
+        {
+          "property_address": "29 Arab St #03-01",
+          "tenant": "Fusion Safety Management Pte Ltd",
+          "currency": "SGD",
+          "rental_period": {
+            "start": "2025-04-01",
+            "end": "2025-11-30"
+          },
+          "standard_monthly_rental": 3800.0,
+          "monthly_records": [
+            {
+              "period_start": "2025-04-01",
+              "period_end": "2025-04-30",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Fusion Safety Management Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-04-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  457
+                ]
+              }
+            },
+            {
+              "period_start": "2025-05-01",
+              "period_end": "2025-05-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Fusion Safety Management Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-05-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  478
+                ]
+              }
+            },
+            {
+              "period_start": "2025-06-01",
+              "period_end": "2025-06-30",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Fusion Safety Mgmt",
+              "confidence": 0.85,
+              "transaction_date": "2025-06-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  499
+                ]
+              }
+            },
+            {
+              "period_start": "2025-07-01",
+              "period_end": "2025-07-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Fusion Safety Management Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-07-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  520
+                ]
+              }
+            },
+            {
+              "period_start": "2025-08-01",
+              "period_end": "2025-08-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Fusion Safety Management Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-08-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  540
+                ]
+              }
+            },
+            {
+              "period_start": "2025-09-01",
+              "period_end": "2025-09-30",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Fusion Safety Mgmt",
+              "confidence": 0.85,
+              "transaction_date": "2025-09-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  561
+                ]
+              }
+            },
+            {
+              "period_start": "2025-10-01",
+              "period_end": "2025-10-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Fusion Safety Management Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-10-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  582
+                ]
+              }
+            },
+            {
+              "period_start": "2025-11-01",
+              "period_end": "2025-11-30",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Fusion Safety Management Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-11-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  602
+                ]
+              }
+            }
+          ],
+          "missing_periods": [
+            {
+              "expected_start": "2025-12-01",
+              "expected_end": "2025-12-31"
+            },
+            {
+              "expected_start": "2026-01-01",
+              "expected_end": "2026-01-31"
+            },
+            {
+              "expected_start": "2026-02-01",
+              "expected_end": "2026-02-28"
+            },
+            {
+              "expected_start": "2026-03-01",
+              "expected_end": "2026-03-31"
+            }
+          ],
+          "issues": [
+            {
+              "type": "MISSING_RENTAL_PERIOD",
+              "severity": "warning",
+              "message": "No rental record identified for 2025-12-01 to 2025-12-31.",
+              "context": {
+                "expected_start": "2025-12-01",
+                "expected_end": "2025-12-31",
+                "coverage": "tail_or_head"
+              }
+            },
+            {
+              "type": "MISSING_RENTAL_PERIOD",
+              "severity": "warning",
+              "message": "No rental record identified for 2026-01-01 to 2026-01-31.",
+              "context": {
+                "expected_start": "2026-01-01",
+                "expected_end": "2026-01-31",
+                "coverage": "tail_or_head"
+              }
+            },
+            {
+              "type": "MISSING_RENTAL_PERIOD",
+              "severity": "warning",
+              "message": "No rental record identified for 2026-02-01 to 2026-02-28.",
+              "context": {
+                "expected_start": "2026-02-01",
+                "expected_end": "2026-02-28",
+                "coverage": "tail_or_head"
+              }
+            },
+            {
+              "type": "MISSING_RENTAL_PERIOD",
+              "severity": "warning",
+              "message": "No rental record identified for 2026-03-01 to 2026-03-31.",
+              "context": {
+                "expected_start": "2026-03-01",
+                "expected_end": "2026-03-31",
+                "coverage": "tail_or_head"
+              }
+            }
+          ],
+          "clarification_questions": [
+            "Rental records for 29 Arab St #03-01 end before the file's latest period, and no rental entry was identified for 2025-12-01 to 2025-12-31. Please confirm whether the lease ended or whether rental records are missing.",
+            "Rental records for 29 Arab St #03-01 end before the file's latest period, and no rental entry was identified for 2026-01-01 to 2026-01-31. Please confirm whether the lease ended or whether rental records are missing.",
+            "Rental records for 29 Arab St #03-01 end before the file's latest period, and no rental entry was identified for 2026-02-01 to 2026-02-28. Please confirm whether the lease ended or whether rental records are missing.",
+            "Rental records for 29 Arab St #03-01 end before the file's latest period, and no rental entry was identified for 2026-03-01 to 2026-03-31. Please confirm whether the lease ended or whether rental records are missing."
+          ]
+        },
+        {
+          "property_address": "31 Arab St #01-01",
+          "tenant": "Ratu Heritage Foods Pte Ltd",
+          "currency": "SGD",
+          "rental_period": {
+            "start": "2025-04-01",
+            "end": "2026-03-31"
+          },
+          "standard_monthly_rental": 4800.0,
+          "monthly_records": [
+            {
+              "period_start": "2025-04-01",
+              "period_end": "2025-04-30",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-04-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  460
+                ]
+              }
+            },
+            {
+              "period_start": "2025-05-01",
+              "period_end": "2025-05-31",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-05-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  481
+                ]
+              }
+            },
+            {
+              "period_start": "2025-06-01",
+              "period_end": "2025-06-30",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods",
+              "confidence": 0.85,
+              "transaction_date": "2025-06-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  502
+                ]
+              }
+            },
+            {
+              "period_start": "2025-07-01",
+              "period_end": "2025-07-31",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-07-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  523
+                ]
+              }
+            },
+            {
+              "period_start": "2025-08-01",
+              "period_end": "2025-08-31",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-08-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  543
+                ]
+              }
+            },
+            {
+              "period_start": "2025-09-01",
+              "period_end": "2025-09-30",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods",
+              "confidence": 0.85,
+              "transaction_date": "2025-09-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  564
+                ]
+              }
+            },
+            {
+              "period_start": "2025-10-01",
+              "period_end": "2025-10-31",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-10-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  585
+                ]
+              }
+            },
+            {
+              "period_start": "2025-11-01",
+              "period_end": "2025-11-30",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-11-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  605
+                ]
+              }
+            },
+            {
+              "period_start": "2025-12-01",
+              "period_end": "2025-12-31",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods",
+              "confidence": 0.85,
+              "transaction_date": "2025-12-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  623
+                ]
+              }
+            },
+            {
+              "period_start": "2026-01-01",
+              "period_end": "2026-01-31",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-01-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  641
+                ]
+              }
+            },
+            {
+              "period_start": "2026-02-01",
+              "period_end": "2026-02-28",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-02-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  659
+                ]
+              }
+            },
+            {
+              "period_start": "2026-03-01",
+              "period_end": "2026-03-31",
+              "amount": 4800.0,
+              "amount_signed": 4800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Ratu Heritage Foods",
+              "confidence": 0.85,
+              "transaction_date": "2026-03-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  673
+                ]
+              }
+            }
+          ],
+          "missing_periods": [],
+          "issues": [],
+          "clarification_questions": []
+        },
+        {
+          "property_address": "31 Arab St #02-01",
+          "tenant": "The Design Abode Pte Ltd",
+          "currency": "SGD",
+          "rental_period": {
+            "start": "2025-04-01",
+            "end": "2026-03-31"
+          },
+          "standard_monthly_rental": 3800.0,
+          "monthly_records": [
+            {
+              "period_start": "2025-04-01",
+              "period_end": "2025-04-30",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "The Design Abode Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-04-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  463
+                ]
+              }
+            },
+            {
+              "period_start": "2025-05-01",
+              "period_end": "2025-05-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "The Design Abode Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-05-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  484
+                ]
+              }
+            },
+            {
+              "period_start": "2025-06-01",
+              "period_end": "2025-06-30",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Design Abode",
+              "confidence": 0.85,
+              "transaction_date": "2025-06-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  505
+                ]
+              }
+            },
+            {
+              "period_start": "2025-07-01",
+              "period_end": "2025-07-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "The Design Abode Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-07-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  525
+                ]
+              }
+            },
+            {
+              "period_start": "2025-08-01",
+              "period_end": "2025-08-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "The Design Abode Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-08-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  546
+                ]
+              }
+            },
+            {
+              "period_start": "2025-09-01",
+              "period_end": "2025-09-30",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Design Abode",
+              "confidence": 0.85,
+              "transaction_date": "2025-09-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  567
+                ]
+              }
+            },
+            {
+              "period_start": "2025-10-01",
+              "period_end": "2025-10-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "The Design Abode Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-10-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  588
+                ]
+              }
+            },
+            {
+              "period_start": "2025-11-01",
+              "period_end": "2025-11-30",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "The Design Abode Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-11-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  608
+                ]
+              }
+            },
+            {
+              "period_start": "2025-12-01",
+              "period_end": "2025-12-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Design Abode",
+              "confidence": 0.85,
+              "transaction_date": "2025-12-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  626
+                ]
+              }
+            },
+            {
+              "period_start": "2026-01-01",
+              "period_end": "2026-01-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "The Design Abode Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-01-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  644
+                ]
+              }
+            },
+            {
+              "period_start": "2026-02-01",
+              "period_end": "2026-02-28",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "The Design Abode Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-02-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  662
+                ]
+              }
+            },
+            {
+              "period_start": "2026-03-01",
+              "period_end": "2026-03-31",
+              "amount": 3800.0,
+              "amount_signed": 3800.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Design Abode",
+              "confidence": 0.85,
+              "transaction_date": "2026-03-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  676
+                ]
+              }
+            }
+          ],
+          "missing_periods": [],
+          "issues": [],
+          "clarification_questions": []
+        },
+        {
+          "property_address": "33 Arab St & 4 Haji Lane #01-01",
+          "tenant": "Piedra Negra Pte Ltd",
+          "currency": "SGD",
+          "rental_period": {
+            "start": "2025-04-01",
+            "end": "2026-03-31"
+          },
+          "standard_monthly_rental": 13100.0,
+          "monthly_records": [
+            {
+              "period_start": "2025-04-01",
+              "period_end": "2025-04-30",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-04-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  466
+                ]
+              }
+            },
+            {
+              "period_start": "2025-05-01",
+              "period_end": "2025-05-31",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-05-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  487
+                ]
+              }
+            },
+            {
+              "period_start": "2025-06-01",
+              "period_end": "2025-06-30",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra",
+              "confidence": 0.85,
+              "transaction_date": "2025-06-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  508
+                ]
+              }
+            },
+            {
+              "period_start": "2025-07-01",
+              "period_end": "2025-07-31",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-07-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  528
+                ]
+              }
+            },
+            {
+              "period_start": "2025-08-01",
+              "period_end": "2025-08-31",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-08-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  549
+                ]
+              }
+            },
+            {
+              "period_start": "2025-09-01",
+              "period_end": "2025-09-30",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra",
+              "confidence": 0.85,
+              "transaction_date": "2025-09-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  570
+                ]
+              }
+            },
+            {
+              "period_start": "2025-10-01",
+              "period_end": "2025-10-31",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-10-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  591
+                ]
+              }
+            },
+            {
+              "period_start": "2025-11-01",
+              "period_end": "2025-11-30",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-11-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  611
+                ]
+              }
+            },
+            {
+              "period_start": "2025-12-01",
+              "period_end": "2025-12-31",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra",
+              "confidence": 0.85,
+              "transaction_date": "2025-12-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  629
+                ]
+              }
+            },
+            {
+              "period_start": "2026-01-01",
+              "period_end": "2026-01-31",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-01-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  647
+                ]
+              }
+            },
+            {
+              "period_start": "2026-02-01",
+              "period_end": "2026-02-28",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-02-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  665
+                ]
+              }
+            },
+            {
+              "period_start": "2026-03-01",
+              "period_end": "2026-03-31",
+              "amount": 13100.0,
+              "amount_signed": 13100.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Piedra Negra",
+              "confidence": 0.85,
+              "transaction_date": "2026-03-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  679
+                ]
+              }
+            }
+          ],
+          "missing_periods": [],
+          "issues": [],
+          "clarification_questions": []
+        },
+        {
+          "property_address": "33 Arab St & 4 Haji Lane #02-01",
+          "tenant": "McLeod & Son Pte Ltd",
+          "currency": "SGD",
+          "rental_period": {
+            "start": "2025-04-01",
+            "end": "2026-03-31"
+          },
+          "standard_monthly_rental": 6200.0,
+          "monthly_records": [
+            {
+              "period_start": "2025-04-01",
+              "period_end": "2025-04-30",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "McLeod & Son Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-04-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  469
+                ]
+              }
+            },
+            {
+              "period_start": "2025-05-01",
+              "period_end": "2025-05-31",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "McLeod & Son Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-05-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  490
+                ]
+              }
+            },
+            {
+              "period_start": "2025-06-01",
+              "period_end": "2025-06-30",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "McLeod & Sons",
+              "confidence": 0.85,
+              "transaction_date": "2025-06-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  511
+                ]
+              }
+            },
+            {
+              "period_start": "2025-07-01",
+              "period_end": "2025-07-31",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "McLeod & Son Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-07-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  531
+                ]
+              }
+            },
+            {
+              "period_start": "2025-08-01",
+              "period_end": "2025-08-31",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "McLeod & Son Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-08-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  552
+                ]
+              }
+            },
+            {
+              "period_start": "2025-09-01",
+              "period_end": "2025-09-30",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "McLeod & Sons",
+              "confidence": 0.85,
+              "transaction_date": "2025-09-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  573
+                ]
+              }
+            },
+            {
+              "period_start": "2025-10-01",
+              "period_end": "2025-10-31",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Maxgolf",
+              "confidence": 0.85,
+              "transaction_date": "2025-10-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  594
+                ]
+              }
+            },
+            {
+              "period_start": "2025-11-01",
+              "period_end": "2025-11-30",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "McLeod & Son Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-11-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  614
+                ]
+              }
+            },
+            {
+              "period_start": "2025-12-01",
+              "period_end": "2025-12-31",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "McLeod & Sons",
+              "confidence": 0.85,
+              "transaction_date": "2025-12-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  632
+                ]
+              }
+            },
+            {
+              "period_start": "2026-01-01",
+              "period_end": "2026-01-31",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "Maxgolf",
+              "confidence": 0.85,
+              "transaction_date": "2026-01-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  650
+                ]
+              }
+            },
+            {
+              "period_start": "2026-02-01",
+              "period_end": "2026-02-28",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "McLeod & Son Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-02-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  667
+                ]
+              }
+            },
+            {
+              "period_start": "2026-03-01",
+              "period_end": "2026-03-31",
+              "amount": 6200.0,
+              "amount_signed": 6200.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "KG Maxgolf",
+              "confidence": 0.85,
+              "transaction_date": "2026-03-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  682
+                ]
+              }
+            }
+          ],
+          "missing_periods": [],
+          "issues": [
+            {
+              "type": "AMBIGUOUS_RECORD",
+              "severity": "warning",
+              "message": "Tenant appears to change for 33 Arab St & 4 Haji Lane #02-01: McLeod & Son Pte Ltd / McLeod & Sons / Maxgolf / KG Maxgolf. Please confirm the correct tenant.",
+              "context": {
+                "tenants": [
+                  "McLeod & Son Pte Ltd",
+                  "McLeod & Sons",
+                  "Maxgolf",
+                  "KG Maxgolf"
+                ]
+              }
+            }
+          ],
+          "clarification_questions": [
+            "Rental records for 33 Arab St & 4 Haji Lane #02-01 reference multiple tenants (McLeod & Son Pte Ltd, McLeod & Sons, Maxgolf, KG Maxgolf). Please confirm the correct tenant for each period."
+          ]
+        },
+        {
+          "property_address": "55 Bussorah St",
+          "tenant": "3 Hostel Pte Ltd",
+          "currency": "SGD",
+          "rental_period": {
+            "start": "2025-04-01",
+            "end": "2026-03-31"
+          },
+          "standard_monthly_rental": 26400.0,
+          "monthly_records": [
+            {
+              "period_start": "2025-04-01",
+              "period_end": "2025-04-30",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-04-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  449
+                ]
+              }
+            },
+            {
+              "period_start": "2025-05-01",
+              "period_end": "2025-05-31",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-05-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  472
+                ]
+              }
+            },
+            {
+              "period_start": "2025-06-01",
+              "period_end": "2025-06-30",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-06-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  493
+                ]
+              }
+            },
+            {
+              "period_start": "2025-07-01",
+              "period_end": "2025-07-31",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-07-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  514
+                ]
+              }
+            },
+            {
+              "period_start": "2025-08-01",
+              "period_end": "2025-08-31",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-08-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  534
+                ]
+              }
+            },
+            {
+              "period_start": "2025-09-01",
+              "period_end": "2025-09-30",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-09-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  555
+                ]
+              }
+            },
+            {
+              "period_start": "2025-10-01",
+              "period_end": "2025-10-31",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-10-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  576
+                ]
+              }
+            },
+            {
+              "period_start": "2025-11-01",
+              "period_end": "2025-11-30",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-11-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  596
+                ]
+              }
+            },
+            {
+              "period_start": "2025-12-01",
+              "period_end": "2025-12-31",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2025-12-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  617
+                ]
+              }
+            },
+            {
+              "period_start": "2026-01-01",
+              "period_end": "2026-01-31",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-01-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  635
+                ]
+              }
+            },
+            {
+              "period_start": "2026-02-01",
+              "period_end": "2026-02-28",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-02-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  653
+                ]
+              }
+            },
+            {
+              "period_start": "2026-03-01",
+              "period_end": "2026-03-31",
+              "amount": 26400.0,
+              "amount_signed": 26400.0,
+              "currency": "SGD",
+              "record_type": "monthly_rent",
+              "tenant": "3 Hostel Pte Ltd",
+              "confidence": 0.85,
+              "transaction_date": "2026-03-01",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  670
+                ]
+              }
+            }
+          ],
+          "missing_periods": [],
+          "issues": [],
+          "clarification_questions": []
+        },
+        {
+          "property_address": null,
+          "tenant": null,
+          "currency": "SGD",
+          "rental_period": {
+            "start": null,
+            "end": null
+          },
+          "standard_monthly_rental": null,
+          "monthly_records": [
+            {
+              "period_start": "2026-03-01",
+              "period_end": "2026-03-31",
+              "amount": 24359.92,
+              "amount_signed": -24359.92,
+              "currency": "SGD",
+              "record_type": "adjustment",
+              "tenant": null,
+              "confidence": 0.55,
+              "transaction_date": "2026-03-31",
+              "source": {
+                "sheet": "Sheet1",
+                "rows": [
+                  685
+                ]
+              }
+            }
+          ],
+          "missing_periods": [],
+          "issues": [
+            {
+              "type": "MISSING_PROPERTY_ADDRESS",
+              "severity": "warning",
+              "message": "No property address could be identified for a rental transaction dated 2026-03-31 (sheet Sheet1, row(s) [685]).",
+              "context": {
+                "sheet": "Sheet1",
+                "rows": [
+                  685
+                ],
+                "period_start": "2026-03-01",
+                "period_end": "2026-03-31"
+              }
+            },
+            {
+              "type": "AMBIGUOUS_RECORD",
+              "severity": "warning",
+              "message": "Only adjustment-type entries were found for this property; no monthly rental records could be established. Please confirm how these entries should be treated.",
+              "context": {
+                "record_count": 1
+              }
+            }
+          ],
+          "clarification_questions": [
+            "A rental transaction was identified for the period 2026-03-01 to 2026-03-31 (sheet Sheet1, row(s) [685]), but no property address could be identified. Please confirm the property address for this rental.",
+            "An ambiguous rental record was found for the property: Only adjustment-type entries were found for this property; no monthly rental records could be established. Please confirm how these entries should be treated. Please confirm how it should be treated."
+          ]
+        }
+      ]
+    }
+  ]
+}
